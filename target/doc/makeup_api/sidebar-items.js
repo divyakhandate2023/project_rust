@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["fetch_products","insert_product","main"],"struct":["Product"]};
