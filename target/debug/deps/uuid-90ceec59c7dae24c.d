@@ -1,0 +1,12 @@
+D:\Summer Sem\rust_pgms\makeup_api\target\debug\deps\libuuid-90ceec59c7dae24c.rmeta: C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\lib.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\mod.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\error.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\error.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\mod.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\error.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\prelude.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\adapter\mod.rs
+
+D:\Summer Sem\rust_pgms\makeup_api\target\debug\deps\uuid-90ceec59c7dae24c.d: C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\lib.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\mod.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\error.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\error.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\mod.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\error.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\prelude.rs C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\adapter\mod.rs
+
+C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\lib.rs:
+C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\mod.rs:
+C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\builder\error.rs:
+C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\error.rs:
+C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\mod.rs:
+C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\parser\error.rs:
+C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\prelude.rs:
+C:\Users\dkhan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\uuid-0.8.2\src\adapter\mod.rs:

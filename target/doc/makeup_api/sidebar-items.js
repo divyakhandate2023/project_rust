@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["fetch_products","insert_product","main"],"struct":["Product"]};
+window.SIDEBAR_ITEMS = {"fn":["clean_product","fetch_products","insert_product","main"],"struct":["Product"]};
